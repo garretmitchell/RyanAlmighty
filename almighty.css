@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+
+.logo {
+    width: 30%;
+}
+
+/* top div placement */
+/* .pagetop {
+    display: flex;
+    justify-content: center;
+
+} */
+
+.pagebreak {
+
+    height: 20px;
+    border: 0;
+    box-shadow: 0 10px 15px -5px #8c8c8c inset;
+    margin-left: -8%;
+    margin-right: -8%;
+}
+
+
+/* div for services */
+/* .services {
+    position: absolute;
+    padding-left: -80%;
+} */
+
+
+.service-title {
+    color: white;
+    padding-top: 80%;
+    margin-top: -78%;
+    margin-left: 42%;
+}
